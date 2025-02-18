@@ -1,2 +1,22 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Machine à Citations</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="quote-box">
+    <div id="text">"Voici une citation aléatoire."</div>
+    <div id="author">- Auteur</div>
+    <button id="new-quote">Nouvelle citation</button>
+    <a id="tweet-quote" href="#" target="_blank">Tweeter la citation</a>
+  </div>
+
+  <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
 # Auto detect text files and perform LF normalization
 * text=auto
